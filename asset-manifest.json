@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/TechHub/static/css/main.31d6cfe0.css",
+    "main.js": "/TechHub/static/js/main.50550c20.js",
+    "index.html": "/TechHub/index.html",
+    "main.50550c20.js.map": "/TechHub/static/js/main.50550c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.50550c20.js"
+  ]
+}
