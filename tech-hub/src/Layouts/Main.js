@@ -1,6 +1,6 @@
 import React from 'react';
-import {Header} from './Header';
-import {Rodape} from './Rodape';
+import Header from '../Components/Header/Header';
+// import Rodape from '../Components/Rodape/Rodape';
 
 
 const Main = ({children}) => {
@@ -8,7 +8,9 @@ const Main = ({children}) => {
         <div>
             <Header/>
             <Main>{children}</Main>
-            <Rodape />
+            {/* <Rodape /> */}
         </div>
     );
 }
+
+export default Main;
