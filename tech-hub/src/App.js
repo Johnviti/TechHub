@@ -1,11 +1,12 @@
 import React from 'react';
 import Main from './Layouts/Main';
-// import './App.css';
+import { Home } from '../src/Templates/Home'; // Importa o componente Home nomeado
 
 function App() {
   return (
-      <Main>
-      </Main>
+    <Main>
+      <Home />
+    </Main>
   );
 }
 

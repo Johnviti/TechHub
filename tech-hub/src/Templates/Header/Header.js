@@ -1,6 +1,6 @@
 import React from "react";
-import HeaderLogo from "../Padrao/HeaderLogo";
-import NavItem from "../Padrao/NavItem";
+import HeaderLogo from "../../Components/Logo/HeaderLogo";
+import NavItem from "../../Components/NavItem/NavItem";
 
 const Header = () => {
     return (
